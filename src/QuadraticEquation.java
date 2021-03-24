@@ -1,4 +1,5 @@
-//Ejemplo de Checked exception
+//Ejemplo de Checked exception el cual trata acerca de una clase que contiene un metodo el cual calcula la formula cuadratica
+//Y tira excepciones si a es igual a cero o si el determinante es menor que cero
 public class QuadraticEquation{
     public int a;
     public int b;

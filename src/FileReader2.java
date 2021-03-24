@@ -1,4 +1,5 @@
-//Otro ejemplo de Ejemplo de Checked exception
+//Otro ejemplo de Ejemplo de Checked exception el cual lee un archivo txt y se tiene que usar varios try y catch para manejar
+// las excepciones de tipo Checked
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
