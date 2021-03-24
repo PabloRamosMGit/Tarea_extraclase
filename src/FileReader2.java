@@ -12,7 +12,6 @@ public class FileReader2 {
             int cont;
             while((cont=fr.read())!=-1){
                 System.out.print((char) cont);
-
             }
         } catch (FileNotFoundException e) {
             e.printStackTrace();
